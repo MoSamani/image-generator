@@ -1,0 +1,15 @@
+{
+  "name": "image-generator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Gabi and co",
+  "license": "ISC",
+  "description": "An image generator via API",
+  "keywords": [
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
