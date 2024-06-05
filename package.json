@@ -4,12 +4,19 @@
   "main": "app.js",
   "author": "Gabi and co",
   "license": "ISC",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
   "description": "An image generator via API",
   "keywords": [
     "bootstrap",
     "express"
   ],
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.2"
   }
 }
